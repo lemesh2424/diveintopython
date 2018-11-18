@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2723eb8-110d-4531-8bf2-f22b5746430c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/unit_testing/roman1.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/roman1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit_testing/romantest1.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/romantest1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
           <entry key="Python Console" value="5526" />
           <entry key="dummy" value="17" />
           <entry key="gitignore" value="26" />
-          <entry key="py" value="7525" />
+          <entry key="py" value="8088" />
           <entry key="regexp" value="2" />
           <entry key="txt" value="83" />
         </counts>
@@ -47,7 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="126" />
-          <entry key="Python" value="13038" />
+          <entry key="Python" value="13601" />
           <entry key="RegExp" value="15" />
         </counts>
       </usages-collector>
@@ -58,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit_testing/romantest1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="117" column="84" selection-start-line="117" selection-start-column="84" selection-end-line="117" selection-end-column="84" />
+            <state relative-caret-position="293">
+              <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -70,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unit_testing/roman1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="49" column="66" lean-forward="true" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+            <state relative-caret-position="398">
+              <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -154,11 +155,6 @@
               <item name="divetopy" type="b2602c69:ProjectViewProjectNode" />
               <item name="divetopy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="divetopy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="divetopy" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_testing" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1025" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
@@ -352,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_testing/romantest1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="117" column="84" selection-start-line="117" selection-start-column="84" selection-end-line="117" selection-end-column="84" />
+        <state relative-caret-position="293">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -362,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_testing/roman1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="49" column="66" lean-forward="true" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+        <state relative-caret-position="398">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
         </state>
       </provider>
     </entry>
